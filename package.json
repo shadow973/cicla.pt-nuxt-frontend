@@ -1,0 +1,46 @@
+{
+  "name": "CICLA",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/markdownit": "^2.0.0",
+    "@nuxtjs/router": "^1.6.1",
+    "@nuxtjs/toast": "^3.3.1",
+    "@vuesimple/vs-pagination": "^1.4.0",
+    "axios": "^0.21.4",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.15.1",
+    "dayjs": "^1.10.7",
+    "js-cookie": "^3.0.1",
+    "mini-toastr": "^0.8.1",
+    "nuxt": "^2.15.7",
+    "nuxt-fontawesome": "^0.4.0",
+    "nuxt-lazy-load": "^1.2.7",
+    "qs": "^6.10.1",
+    "sass-loader": "^10.1.1",
+    "vue-google-autocomplete": "^1.1.2",
+    "vue-no-ssr": "^1.1.1",
+    "vue-notifications": "^1.0.2",
+    "vue-slick-carousel": "^1.0.6",
+    "vue-social-sharing": "^3.0.8",
+    "vue2-datepicker": "^3.10.4",
+    "vue2-google-maps": "^0.10.7",
+    "vuejs-datepicker": "^1.6.2",
+    "vuelidate": "^0.7.7",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^8.3.0",
+    "node-sass": "^6.0.1",
+    "prettier": "^2.3.2",
+    "sass": "^1.42.1"
+  }
+}
